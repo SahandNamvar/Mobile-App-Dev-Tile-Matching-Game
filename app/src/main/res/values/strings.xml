@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tile_Matching_Mobile_Game</string>
+    <string name="matching_game">Matching Game</string>
+    <string name="reset_game">Reset Game</string>
+</resources>
